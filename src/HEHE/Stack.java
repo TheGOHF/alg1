@@ -1,4 +1,4 @@
-package LIFO;
+package HEHE;
 
 import java.util.EmptyStackException;
 

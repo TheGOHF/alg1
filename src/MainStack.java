@@ -1,7 +1,7 @@
-import LIFO.Node;
-import LIFO.Stack;
+import HEHE.Node;
+import HEHE.Stack;
 
-public class Main {
+public class MainStack {
     public static void main(String[] args) {
         Stack myStack = new Stack<>();
         for (int i = 1; i <= 5; i++){
